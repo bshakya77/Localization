@@ -10,7 +10,6 @@ C:\Bijay\Office Documents\Project\Localization\Localization\bin\Debug\net5.0\Loc
 C:\Bijay\Office Documents\Project\Localization\Localization\bin\Debug\net5.0\en\Localization.resources.dll
 C:\Bijay\Office Documents\Project\Localization\Localization\bin\Debug\net5.0\Localization.Views.dll
 C:\Bijay\Office Documents\Project\Localization\Localization\bin\Debug\net5.0\Localization.Views.pdb
-C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Localization.csprojAssemblyReference.cache
 C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Localization.Resources.Views.Home.Index.en.resources
 C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Localization.csproj.GenerateResource.cache
 C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Localization.GeneratedMSBuildEditorConfig.editorconfig
@@ -131,3 +130,4 @@ C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Raz
 C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Localization.Resources.Views.Shared._Culture.en.resources
 C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Localization.Resources.Views.Shared._Culture.es.resources
 C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Localization.Resources.Views.Shared._Culture.fr.resources
+C:\Bijay\Office Documents\Project\Localization\Localization\obj\Debug\net5.0\Localization.csproj.AssemblyReference.cache
